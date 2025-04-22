@@ -99,7 +99,7 @@ const BlogDetailPage = async ({ params }: { params: { slug: string } }) => {
               <div className="">
                 <Image
                   src={data.authorImage.image}
-                  alt="Bruno"
+                  alt="Green"
                   height={40}
                   width={40}
                   className="h-[40px] object-cover rounded-full"
@@ -199,8 +199,8 @@ const BlogDetailPage = async ({ params }: { params: { slug: string } }) => {
                 <div className="flex items-center gap-6 mt-6">
                   <div className="flex items-center gap-3">
                     <Image
-                      src="/images/bruno.jpg"
-                      alt="Bruno"
+                      src="/images/Green.jpg"
+                      alt="Green"
                       height={40}
                       width={40}
                       className="h-[40px] object-cover rounded-full"
@@ -240,8 +240,8 @@ const BlogDetailPage = async ({ params }: { params: { slug: string } }) => {
                 <div className="flex items-center gap-6 mt-6">
                   <div className="flex items-center gap-3">
                     <Image
-                      src="/images/bruno.jpg"
-                      alt="Bruno"
+                      src="/images/Green.jpg"
+                      alt="Green"
                       height={40}
                       width={40}
                       className="h-[40px] object-cover rounded-full"
@@ -281,8 +281,8 @@ const BlogDetailPage = async ({ params }: { params: { slug: string } }) => {
                 <div className="flex items-center gap-6 mt-6">
                   <div className="flex items-center gap-3">
                     <Image
-                      src="/images/bruno.jpg"
-                      alt="Bruno"
+                      src="/images/Green.jpg"
+                      alt="Green"
                       height={40}
                       width={40}
                       className="h-[40px] object-cover rounded-full"

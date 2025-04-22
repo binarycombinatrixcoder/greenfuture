@@ -51,7 +51,7 @@ export const Blog = async () => {
                       <div className="flex items-center gap-3">
                         <Image
                           src={post.authorImage.image}
-                          alt="Bruno"
+                          alt="Green"
                           height={40}
                           width={40}
                           className="h-[40px] object-cover rounded-full"
